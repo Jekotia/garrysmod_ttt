@@ -4,6 +4,7 @@
 GameState.txt
 bin/
 cache/
+cfg/ttt/archive/
 cfg/*360controller*.cfg
 cfg/autoexec.cfg
 cfg/config_default.cfg
