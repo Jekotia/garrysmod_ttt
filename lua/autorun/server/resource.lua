@@ -276,4 +276,7 @@ resource.AddWorkshop( "2403506856" ) -- TTT Shock Trap
 resource.AddWorkshop( "2739622776" ) -- TTT Randomat 2.0 Jingle Jam 2021 Events Pack
 resource.AddWorkshop( "2761259265" ) -- Enhanced Detectives (CR for TTT)
 resource.AddWorkshop( "2606790481" ) -- Good Boy (CR for TTT)
+resource.AddWorkshop( "106404821" ) -- TTT Traitor Turtlenade
+resource.AddWorkshop( "1820904987" ) -- [T] Headcrab Launcher [TTT]
+resource.AddWorkshop( "2867791819" ) -- TTT_DegrootKeep
   
