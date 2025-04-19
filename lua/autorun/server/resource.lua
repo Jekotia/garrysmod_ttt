@@ -5,6 +5,8 @@
   --]]
 -- Workshop Items ( 3090399302 )
 
+
+resource.AddWorkshop( "2752458427" ) -- [TTT] Weapon Quick-Swap
 resource.AddWorkshop( "2912742691" ) -- 20 Plus More TTT Achievements
 resource.AddWorkshop( "1448640613" ) -- TTT Act
 resource.AddWorkshop( "211029744" ) -- TTT Max players: limit number of active players
